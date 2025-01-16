@@ -1,0 +1,15 @@
+# .NET build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Rider
+.idea/
+
+# NuGet packages
+*.nupkg
